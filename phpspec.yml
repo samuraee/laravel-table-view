@@ -1,0 +1,4 @@
+suites:
+  library_suite:
+    namespace: Tartan\LaravelTableView
+    psr4_prefix: Tartan\LaravelTableView
